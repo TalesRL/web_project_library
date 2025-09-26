@@ -132,7 +132,16 @@ line-height: 20px;
 .card__content{
   padding: 20px 30px;
 }
+.card__title{
+  font-size: 20px;
+  font-weight: bold;
+}
+.card__text{
+  font-size: 15px;
+}
 .card__footer {
+  font-size: 10px;
+  font-weight: 100;
   margin-top: auto;
 }
 .content {
